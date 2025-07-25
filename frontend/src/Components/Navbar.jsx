@@ -14,8 +14,8 @@ const Navbar = () => {
   return (
     <div>
         <div className='flex items-center justify-between py-5 px-6 font-medium'>
-            <img onClick={()=>navigate('/')} src={assets.logo} className='w-36 cursor-pointer' alt='' />
-            <ul className='hidden sm:flex  gap-5 text-sm text-gray-700'>
+            <img onClick={()=>navigate('/')} src={assets.logo1} className='w-36 cursor-pointer' alt='' />
+            <ul className='hidden sm:flex  gap-5 text-sm text-[#008080]'>
                 <NavLink to='/' className='flex  flex-col items-center gap-1' >
                     <p>HOME</p>
                     <hr className='w-2/4 border-none h-[1.5px] bg-gray-700 hidden'></hr>
