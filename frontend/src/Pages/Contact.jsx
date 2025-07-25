@@ -12,9 +12,9 @@ const Contact = () => {
         <img className='w-full md:max-w-[480px]' src={assets.contact_img} alt="" />
         <div className='flex flex-col justify-center items-start gap-6'>
           <p className='font-semibold text-xl text-gray-600'>Our Store</p>
-          <p className='text-gray-500'> 54709 william shakespear <br/> Suite 350 Washington ,usa</p>
-          <p className='text-gray-500'>Tel:(+891) 63733 <br /> Email : balajikundrapu@mail.com </p>
-          <p className='font-semibold text-xl text-gray-600'> Careers at Forever </p>
+          <p className='text-gray-500'> 54709 Mahesh babu <br/> Vizag,India</p>
+          <p className='text-gray-500'>Tel:(+891) 2746305 <br /> Email : bharathkarthik2006@gmail.com </p>
+          <p className='font-semibold text-xl text-gray-600'> Careers at Instyle </p>
           <p className='text-gray-500'>Learn more about our jobs and openings</p>
           <button className='border border-black py-4 px-8 text-sm hover:bg-black hover:text-white transition-all duration-500'> Explore Jobs</button>
           <p></p>

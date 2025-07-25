@@ -8,7 +8,7 @@ const Footer = () => {
             <div className='px-7'>
                 <img src={assets.logo1} className='mb-5 w-32' alt="" />
                 <p className='w-full md:w-2/3 text-gray-600'>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe a autem quae optio explicabo facere molestiae veritatis ipsa consequatur, laboriosam doloremque omnis doloribus vero maxime repellat porro. Pariatur, voluptatem fuga.
+                Your ultimate destination for contemporary fashion. We meticulously curate a diverse range of clothing for every wardrobe, blending the latest trends with timeless quality. Discover pieces crafted for comfort, confidence, and to perfectly express your unique style. Shop now and elevate your everyday.
                 </p>
             </div>
             <div>
@@ -23,14 +23,14 @@ const Footer = () => {
             <div>
                 <p className='text-xl font-medium mb-5'>CONTACT US</p>
                 <ul className='flex flex-col gap-1 text-gray-600'>
-                    <li>+918074254343</li>
-                    <li>kundrapubalaji@gmail.com</li>
+                    <li>+08912746305</li>
+                    <li>bharathkarthik2006@gmail.com</li>
                 </ul>
             </div>
         </div>
         <div>
             <hr />
-            <p className='py-5 text-sm text-center'>Copyright 2024@ forever.com -All rights reserved</p>
+            <p className='py-5 text-sm text-center'>Copyright 2025@ Instyle.com -All rights reserved</p>
         </div>
     </div>
   )
